@@ -275,6 +275,10 @@ input[type=submit] {
     width: 530px;
   }
 
+  .work {
+    width: 530px;
+  }
+
   .sidebar {
     float: left;
     max-width: 650px
