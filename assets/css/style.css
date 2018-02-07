@@ -244,7 +244,44 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 768px) {
+  #masthead {
+    position: static;
+  }
   
+  #logo {
+    margin-left: 20px;
+  }
+
+  #main-container {
+    padding-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .navclass {
+    margin-right: 25px;
+  }
+
+  .main-section {
+    max-width: 755px;
+  }
+
+  .auth-image {
+    width: 337px;
+  }
+
+  .work {
+    width: 310px;
+  }
+
+  .sidebar {
+    float: left;
+    max-width: 755px;
+  }
+
+  .social:last-child {
+    margin-right: 5px;
+  }
 }
 
 @media screen and (max-width: 640px) {
