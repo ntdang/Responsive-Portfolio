@@ -255,5 +255,34 @@ input[type=submit] {
   #logo {
     width: 100%;
   }
+
+  .navclass {
+    margin-right: 120px;
+  }
+
+  nav a {
+    margin-left: 20px;
+    padding-left: 85px;
+  }
+
+  #main-container {
+    padding-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .auth-image {
+    width: 530px;
+  }
+
+  .sidebar {
+    float: left;
+    max-width: 650px
+  }
+
+  .social:last-child {
+    margin-right: 5px;
+  }
+
 }
 
